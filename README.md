@@ -3,7 +3,7 @@
 Parrot: A Training Pipeline Enhances Both Program CoT and Natural Language CoT for Reasoning
 
 <div align="center">
-  <img src=main.png" width="100%">
+  <img src=main.pdf" width="100%">
 </div>
 
 
